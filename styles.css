@@ -1,0 +1,6 @@
+:root{--bg:#0a0f1a;--ink:#e6edf7;--accent:#4ad7d1;--card:#111827;}
+body{margin:0;font-family:Verdana,Arial,sans-serif;background:var(--bg);color:var(--ink);} 
+header{padding:48px 24px;background:radial-gradient(circle at top left,#19233a,#0a0f1a);} 
+section{margin:16px auto;max-width:900px;background:var(--card);padding:20px;border-radius:12px;} 
+a{color:var(--accent);} 
+li{margin:8px 0;} 
